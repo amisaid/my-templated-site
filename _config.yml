@@ -6,10 +6,10 @@ logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 
 
 # Site Settings
 url:                https://brenov.github.io # main url
-baseurl:            /the-plain-academic
+baseurl:            /my-templated-site
 permalink:          /:title # Post permalink
-timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+# timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
 highlighter:        rouge
